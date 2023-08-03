@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="McxSanctify">
+    <output-path>$PROJECT_DIR$/out/artifacts/McxSanctify</output-path>
+    <root id="archive" name="McxSanctify.jar">
+      <element id="module-output" name="McxSanctify" />
+    </root>
+  </artifact>
+</component>

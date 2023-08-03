@@ -1,0 +1,13 @@
+name: McxSanctify
+version: '${project.version}'
+main: cn.upd.mcxsanctify.McxSanctify
+authors: [MoChengXi]
+commands:
+  mcxsanctify:
+    description: MainCommand
+    aliases: [mcx,ms]
+permissions:
+  mcxsanctify.supervisor:
+    description: 'jurisdiction'
+    default: op
+
